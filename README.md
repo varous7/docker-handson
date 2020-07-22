@@ -1,3 +1,1 @@
-# devops-bootcamp2
-
-Readme for devops bootcamp 2.
+This repo is made for docker handson. The screenshots can be found under Handson-Docker.doc file
