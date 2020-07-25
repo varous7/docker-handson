@@ -1,0 +1,6 @@
+---
+applications:
+- name: devops-app
+  memory: 512M
+  instances: 1
+  path: target/*.jar
