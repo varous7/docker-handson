@@ -1,7 +1,7 @@
 
 FROM openjdk:8-jdk-alpine
 
-EXPOSE 8888
+EXPOSE 9999
 
 ARG JAR_FILE=/target/*.jar
 
