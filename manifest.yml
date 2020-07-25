@@ -1,7 +1,7 @@
 ---
 applications:
 - name: devops-demo
-  memory: 512M
+  memory: 712M
   instances: 1
   path: target/cicd-demo-0.0.1-SNAPSHOT.jar
   buildpack: https://github.com/cloudfoundry/java-buildpack
