@@ -1,6 +1,6 @@
 ---
 applications:
-- name: devops-demo-1
+- name: dev1
   memory: 712M
   instances: 1
   path: target/cicd-demo-0.0.1-SNAPSHOT.jar
